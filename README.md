@@ -17,10 +17,10 @@
 </div>
 
 ## Habilidades 
-<table background="white" align="center"><tr background="white" align="center"><td background="white" align="center" valign="top" width="50%">
+<table align="center"><tr align="center"><td align="center" valign="top" width="50%">
 
 ### Frontend  
-<div align="center">  
+<div background="white" align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
