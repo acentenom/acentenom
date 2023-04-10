@@ -17,7 +17,7 @@
 </div>
 
 ## Habilidades 
-<table><tr align="center"><td align="center" valign="top" width="50%">
+<table align="center"><tr align="center"><td align="center" valign="top" width="50%">
 
 ### Backend  
 <div align="center">  
@@ -50,7 +50,7 @@
 
 ### Github Estadísticas 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=acentenom&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acentenom&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
