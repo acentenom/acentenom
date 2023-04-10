@@ -11,10 +11,10 @@ Me atrajo el mundo del desarrollo, el hecho de poder implementar conocimientos e
 ### Contacto  
 <div align="center">
   <a href="mailto:acentenom58@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src=https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png alt=gmail style="margin-bottom: 5px;" />
+  <img src=https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png alt=gmail style="margin-bottom: 5px;" width="5px" />
   </a>
 <a href="https://github.com/acentenom" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" width="5px" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/alejandro-centeno-meza" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
