@@ -17,7 +17,7 @@
 </div>
 
 ## Habilidades 
-<table color="white" align="center"><tr align="center"><td align="center" valign="top" width="50%">
+<table background="white" align="center"><tr align="center"><td align="center" valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
