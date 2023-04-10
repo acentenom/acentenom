@@ -51,6 +51,7 @@ Me atrajo el mundo del desarrollo, el hecho de poder implementar conocimientos e
 <br/>
 
 ### Github Estadísticas 
+<div align="center"><a href="mailto:acentenom58@gmail.com" target="_blank" rel="noopener noreferrer"></div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=acentenom&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acentenom&hide_border=true&layout=compact" align="center" /></div>  
