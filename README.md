@@ -11,7 +11,7 @@ Me atrajo el mundo del desarrollo, el hecho de poder implementar conocimientos e
 ### Contacto  
 <div align="center">
   <a href="mailto:acentenom58@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src=https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png alt=gmail style="margin-bottom: 5px;" width="50px" />
+  <img src=https://graffica.info/wp-content/uploads/2021/06/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0-1024x576.webp alt=gmail style="margin-bottom: 5px;" width="50px" />
   </a>
 <a href="https://github.com/acentenom" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
