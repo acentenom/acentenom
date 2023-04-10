@@ -1,7 +1,7 @@
 ### Hola Mundo 👋 🌎
 ### <div align="center"> Soy Alejandro Centeno 👨‍💻 Desarrollador Fullstack 🚀</div>
 
-Me atrajo el mundo del desarrollo, el hecho de poder implementar conocimientos en diversas áreas y lograr soluciones capaces de impactar desde una persona a una sociedad, además, la facilidad con la que se puede aprender siendo autodidacta y compromiso.
+Me atrajo el mundo del desarrollo, el hecho de poder implementar conocimientos en diversas áreas y lograr soluciones capaces de impactar desde una persona a una sociedad, además, la facilidad con la que se puede aprender siendo autodidacta y compromiso. 
 
 - 🌱 Estoy fortaleciendo conocimientos en Redux Toolkit
 - 👨‍💻 Estoy buscando colaborar en un buen equipo y empresa que necesite mis servicios.
