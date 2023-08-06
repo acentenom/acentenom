@@ -53,6 +53,11 @@ Me atrajo el mundo del desarrollo, el hecho de poder implementar conocimientos e
 
 <br/>
 
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=acentenom&theme=transparent&hide_border=true&border_radius=5&card_width=500)](https://git.io/streak-stats)
+
 ### Github Estadísticas 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=acentenom&show_icons=true&count_private=true&hide_border=true" align="center"/></div>  
 <br/>
